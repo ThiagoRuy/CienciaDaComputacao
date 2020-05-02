@@ -1,1 +1,1 @@
-# Ciência Da Computaçâo - UNIFEG
+# Ciência Da Computação - UNIFEG
